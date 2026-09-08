@@ -25,6 +25,24 @@ const exercises = [
       "Slight forward lean to engage chest.",
       "Lower until shoulders drop below elbow joint level."
     ]
+  },
+  {
+    title: "Monkey Bar Traverse",
+    category: "pull",
+    cues: [
+      "Maintain momentum using controlled hip swings.",
+      "Keep shoulders engaged throughout each reach.",
+      "Grip each bar firmly before releasing the trailing arm."
+    ]
+  },
+  {
+    title: "Freestyle Swim Recovery",
+    category: "core",
+    cues: [
+      "Focus on long, smooth arm reaches and rhythmic breathing.",
+      "Engage core to maintain a high, horizontal water position.",
+      "Serves as low-impact cardio recovery after intense bar work."
+    ]
   }
 ];
 
